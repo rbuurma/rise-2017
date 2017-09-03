@@ -1,4 +1,4 @@
-![RiseCoverSheetTristramShandyMarbledPage](
+![RiseCoverSheetTristramShandyMarbledPage](/Images/Rise2017CoverSheet.png)
 
 # English 035: The Rise of the Novel (and the rise of social media)
 

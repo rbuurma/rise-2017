@@ -138,15 +138,17 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### October 30
 + *Northanger Abbey*, 36-240 (all)
 + Exercise 6 assigned
++ Short excerpt from Ferguson, "Jane Austen, Emma, and the Impact of Form"
 + Social media 5: free indirect discourse and other minds; reality effects
 
 ##### November 1
 + *Northanger Abbey*, continued
-+ Short excerpt from Ferguson, "Jane Austen, Emma, and the Impact of Form"
++ Selection from Anderson, *Imagined Communities*
 
 ##### November 3
-+ Selection from Anderson, *Imagined Communities*
++ no class
 + Descriptive bibliography plan due (one paragraph, post to Known)
+
 
 ### Week 10: *The Moonstone* (1868)
 

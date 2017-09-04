@@ -340,6 +340,18 @@ I want to work to make sure that everyone in this class has the access to the ma
 
 > If you believe that you need accommodations for a disability, please contact the Office of Student Disability Services (Parrish 113W) or email studentdisabilityservices@swarthmore.edu to arrange an appointment to discuss your needs. As appropriate, the Office will issue students with documented disabilities a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact the Office of Student Disability Services as soon as possible.  For details about the accommodations process, visit the Student Disability Service Website at http://www.swarthmore.edu/academic-advising-support/welcome-to-student-disability-service.  You are also welcome to contact me [the faculty member] privately to discuss your academic needs. However, all disability-related accommodations must be arranged through the Office of Student Disability Services.
 
+#### Dean's Discretionary Fund and Dean's Office resources for basic needs
+
+If purchasing your textbooks or other materials for this or any other class present a serious financial difficulty for you, you should be aware of the [Dean's Discretionary Fund](http://www.swarthmore.edu/student-life/deans-discretionary-funding-request-guidelines) and other resources such as the Course Book Collection in Underhill Library in Lang Music.
+
+The Dean's Office describes the fund  this way:
+
+> The spirit of this funding is primarily to support emergency circumstances and priority is given to students in the highest financial need tiers.  Funding is usually limited to under $500 and most grants are under $300.  Please note the Dean's Office may not be able to fulfill all requests.
+
+> Examples of eligible non-academic requests include, but are not limited to, expenses associated with emergency medical, dental, vision procedures, unanticipated trips home due to a family emergency, and various fees related to postgraduate opportunities.
+
+The Student Life office at Swarthmore is very committed to making sure that all students having living situations that support their ability to work and live here successfully. If you find that you are having sustained difficulties with your food or housing situation and believe that this may affect your course performance, you should contact your class dean; you are also free to contact me if you wish so that I can help you find the support you need.
+
 #### Syllabus acknowledgements
 
 The first version of this course was inspired by [Sanjay Krishnan's](http://www.bu.edu/english/people/faculty/sanjay-krishnan/) syllabus for his Rise of the Novel class. Some of the other syllabi I have read while constructing this one are listed [on my Pinboard](https://pinboard.in/u:rbuurma/t:r_of_n/).

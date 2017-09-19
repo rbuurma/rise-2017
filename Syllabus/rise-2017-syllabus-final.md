@@ -6,7 +6,7 @@
 + semester: Fall 2017
 + time: MWF 10:30-11:20
 + location: LPAC 301
-+ office: LPAC 302 and Parrish 205W
++ office: LPAC 302 and Parrish W201
 + office hours: M 1- 3 + W 1-3 in Parrish 205W and by appointment
 + email: rbuurma1@swarthmore.edu
 + eligible for GSST and INTP credit; fulfills the 18th/19th c distribution in the English major and minor
@@ -68,11 +68,12 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ##### September 20
 + *Pamela* chapter summary (pdf)
 + *Pamela* 476-503
-+ Ferguson, from"Rape and the Rise of the Novel" (short excerpt)
++ Ferguson, from"Rape and the Rise of the Novel" (short excerpt in class)
 
 ##### September 22
 + Selection from Armstrong, *Desire and Domestic Fiction*
 + [Exercise 3](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_3.md) assigned
++ note: Professor Buurma will be away; see instructions
 
 ### Week 4: *Pamela* and *Shamela* (1741)
 
@@ -148,7 +149,6 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 3
 + no class
 + Descriptive bibliography plan due (one paragraph, post to Known)
-
 
 ### Week 10: *The Moonstone* (1868)
 

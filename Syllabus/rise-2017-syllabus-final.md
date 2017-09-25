@@ -68,7 +68,6 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ##### September 20
 + *Pamela* chapter summary (pdf)
 + *Pamela* 476-503
-+ Ferguson, from"Rape and the Rise of the Novel" (short excerpt in class)
 
 ##### September 22
 + Selection from Armstrong, *Desire and Domestic Fiction*
@@ -78,13 +77,14 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ### Week 4: *Pamela* and *Shamela* (1741)
 
 ##### September 25
-+ *Shamela*, all
++ *Shamela*, all; bring *Pamela* text back to class as well
 + Social media 2: interiority
++ Ferguson, from"Rape and the Rise of the Novel" (short excerpt in class)
 
 ##### September 27
 + *Shamela*, continued
 + Sxercise 3 due; [exercise4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) assigned
-+ From Tenen, *Plain Text: The Poetics of Computation*
++ From Tenen, *Plain Text: The Poetics of Computation* (in class)
 
 ##### September 29
 + McKeon, "Generic Transformation and Social Change"

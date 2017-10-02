@@ -1,6 +1,6 @@
 # The Preparation of the Text 1: Digital Versions of *Tristram Shandy* (Exercise 4)
 
-Steps 1-5 due by Wednesday, September 30. Step 6 (write-up) due Friday, October 2.
+Steps 1-5 due by Wednesday, October 4. Step 6 (write-up) due Friday, October 6.
 
 So far, we have looked at and read our eighteenth-century novels in three primary forms: modern printed scholarly editions (or editions based on scholarly editions), digital facsimiles/digital surrogates (images of eighteenth-century editions of some of our novels, usually a few pages at a time), and the Project Gutenberg plain-text versions of our novels (which we have used in our text analysis assignments). This assignment will start us thinking about some of the ways we get from a paper copy of an eighteenth-century novel to a digital facsimile to a plain-text file. It will also help us think about what is at stake in TS's play with typography and images.
 

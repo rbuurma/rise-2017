@@ -18,13 +18,9 @@ In Firefox, go to Tools > Webdeveloper > Page source.
 
 or
 
-In Safari, go to Safari menu > Preferences > Advanced.
+In Safari, go to Safari menu > Preferences > Advanced. Check "Show Develop menu in menu bar." Close the Preferences window. Go to the Develop menu > Show Page Source
 
-Check "Show Develop menu in menu bar."
-
-Close the Preferences window.
-
-Go to the Develop menu > Show Page Source 
+---
 
 Can you find the text you read on the webpage? What else do you see? What is it doing?
 

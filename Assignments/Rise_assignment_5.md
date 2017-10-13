@@ -1,6 +1,6 @@
 # Evelina in 1778 (Exercise 5)
 
-Writeup due to Known before class Wednesday, October 21, 2015
+Writeup due to Known before class Wednesday, October 25, 2017
 
 Estimated time: 2-3 hours
 

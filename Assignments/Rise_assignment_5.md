@@ -18,7 +18,7 @@ All together, these three views of a corpus or collection of eighteenth-century 
 
 2. Look through the different kinds of titles for fictional works between 1776 and 1779. (First, you will probably want to look for a key to help you read the entries. Hint: there is one, and you want to look at it first. There is also a lot of contextual material and historical background - use as you see fit.) See if you can begin to make sense of the array of possible kinds of book titles out there. Can you organize them into types or categories? What do the full titles tell you about the works? About genre? About audience? Do some seem "new", others more backward-looking? How many of these fictional works seem like "novels"? See what you can infer from the other information provided. What audiences do different works seem aimed at? For example, are there some booksellers who publish a lot of fiction? Who seems to be the most prestigious publisher? Who the least? Given that the average wages of a skilled laborer in these years were between 15 and 20 shillings per week, how much do these books cost in relative terms? These are the types of questions I want you to start asking; formulate your own questions based on your own interests.
 
-3. Write a paragraph or two about what you can learn about the novel in 1778 from the bibliography alone. What kinds of questions can you use this information alone to ask and answer?
+3. Write a few paragraphs about what you can learn about the novel in 1778 from the bibliography alone. What kinds of questions can you use this information alone to ask and answer?
 
 Optional: after finishing your paragraph, you may be interested in taking a look at Franco Moretti's take on what we can learn from bibliographies of 18th novels; see Dropbox for his article ["Style, Inc.: Reflections on 7,000 Titles (British Novels, 1740-1850)"](http://emc.english.ucsb.edu/emc-courses/novel-mediation-s2011/novel-mediation/articles/moretti.style.pdf).
 
@@ -38,25 +38,16 @@ Optional: after finishing your paragraph, you may be interested in taking a look
 
 5. Add your own questions.
 
-6. Write another paragraph or two for Known about the most interesting things you have found and tentative conclusions you might draw from your work in this section.
+6. Write a few more paragraphs for Known about the most interesting things you have found and tentative conclusions you might draw from your work in this section.
 
 
-#### Step 3: ARTEMIS
+#### Step 3: Post
 
-This very brief last step asks you to look at a few simple built-in text analysis tools for a the ECCO corpus, in order to think about what you can learn from them and what you can't.
-
-1. The first thing we must do is select the relevant subsection of the ECCO corpus to work on. Go to the ECCO main page and click on the orange ARTEMIS box in the upper-righthand corner. Go to "advanced search," leave the search box blank, select only the ECCO database, and narrow by the time period of your choice (1700-1800? 1750-1800? 1770-1800?). On the results page, narrow the lefthand "subject" facet to "English fiction." (Hey, how does ARTEMIS know what documents are "English fiction"? Good question! Ideas?)
-
-2. Under "analyse results," explore "term clusters" (read the explanation for how these are created) and play with "term frequency." What can you learn about the collection of texts you selected in your search through using these two tools? What happens if you change the collection of texts you search for and analyze? And what text with what applied algorithm is generating the "term frequency"?
-
-3. Write a final short paragraph about anything you have discovered using ARTEMIS, and/or the (significant) limits of ARTEMIS for large-scale text analysis.
-
-
-Post your paragraphs to Known with #Exercise5 #bibliography and any other relevant tags.
+Post your 4-5 paragraphs to Known with #Exercise5 #bibliography and any other relevant tags.
 
 ### Remember
 
-This is the first iteration of this assignment; if you run into bugs or other difficulties, please let me know.
+This is the second iteration of this assignment; if you run into bugs or other difficulties, please let me know.
 
 ### Acknowledgements
 

@@ -40,8 +40,20 @@ Optional: after finishing your paragraph, you may be interested in taking a look
 
 6. Write a few more paragraphs for Known about the most interesting things you have found and tentative conclusions you might draw from your work in this section.
 
+#### Step 3: ECCO/Gale's built-in text analysis tools
 
-#### Step 3: Post
+This very brief last step asks you to look at a few simple built-in text analysis tools for a the ECCO corpus, in order to think about what you can learn from them and what you can't.
+
+The first thing we must do is select the relevant subsection of the ECCO corpus to work on. Go to the ECCO main page and click on the "Gale Primary Sources" box in the upper-righthand corner. Go to "advanced search," leave the search box blank, select only the ECCO database, and narrow by the time period of your choice (1700-1800? 1750-1800? 1770-1800?). On the results page, narrow the lefthand "subject" facet to "English fiction." (Hey, how does this interface know what documents are "English fiction"? Good question! Ideas?)
+
+Under "analyse results," explore "term clusters" (read the explanation for how these are created) and play with "term frequency." What can you learn about the collection of texts you selected in your search through using these two tools? What happens if you change the collection of texts you search for and analyze? And what text with what applied algorithm is generating the "term frequency"?
+
+Write a final short paragraph about anything you have discovered using Gale Primary Sources, and/or the (significant) limits of Gale Primary Sources for large-scale text analysis.
+
+Post your paragraphs to Known with #Exercise5 #bibliography and any other relevant tags.
+
+
+#### Step 4: Post
 
 Post your 4-5 paragraphs to Known with #Exercise5 #bibliography and any other relevant tags.
 

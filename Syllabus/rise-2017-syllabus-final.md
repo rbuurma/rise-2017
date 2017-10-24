@@ -149,7 +149,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 3
 + no class
-+ Descriptive bibliography plan due (one paragraph, post to Known)
++ Traditional descriptive bibliography draft due (post to Known)
 
 ### Week 10: *The Moonstone* (1868)
 
@@ -166,6 +166,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 10
 + *The Moonstone*, continued
 + Selection from Gallagher, "The Rise of Fictionality"
++ Experimental descriptive bibliography plan due (one paragraph, post to Known)
 
 ### Week 11: *The Moonstone*
 
@@ -186,7 +187,6 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 20
 + *Daisy Miller*, all
-+  *descriptive bibliography projects due (by Sunday night, November 22st)*
 + Social media 8: surveillance
 + Exercise 8 due; exercise 9 assigned
 
@@ -205,7 +205,8 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 29
 + *Ulysses*, "Nausicaa" chapter
-+ optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
++ optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)+  
++ *descriptive bibliography projects due 
 
 ##### December 1
 + Master of None, Season 2, Episode 6

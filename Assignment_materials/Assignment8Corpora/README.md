@@ -24,6 +24,6 @@ CHAWTON, our first “archive” corpus, is a collection of 75 novels drawn from
 ##### Singer-Mendenhall
 A alternate model for “archive” is SINGERMENDENHALL. This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania.
 
-##### Some additions
+#### Some additions
 
 See also our collection of the novels of Samuel Richardson, a collection of parodies of Richardson's novel *Pamela* and some works by Daniel Defoe for touchstones of earlier eigtheenth-century novels and novelists.

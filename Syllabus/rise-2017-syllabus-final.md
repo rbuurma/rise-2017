@@ -149,16 +149,16 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 3
 + no class
-+ Traditional descriptive bibliography draft due (post to Known)
++ Traditional descriptive bibliography draft due by Sunday (post to Known)
 
 ### Week 10: *The Moonstone* (1868)
 
 ##### November 6
 + *The Moonstone*, 3-271
-+ Exercise 6 due
 + Social media 6: imagined communities?
 
 ##### November 8
++ Exercise 6 due
 + Exercise 7 assigned
 + Topic modeling lab
 + *The Moonstone*, continued
@@ -177,7 +177,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 15
 + *The Moonstone*, continued
-+ Exercise 7 due; exercise 8 assigned
++ Exercise 7 due
 
 ##### November 17
 + Selection from Foucault, *Discipline and Punish*
@@ -188,10 +188,11 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 20
 + *Daisy Miller*, all
 + Social media 8: surveillance
-+ Exercise 8 due; exercise 9 assigned
+
 
 ##### November 22
 + tba
++ Exercise 9 warm-up: command line exercise
 
 ##### November 24
 + No class – Thanksgiving break
@@ -201,12 +202,12 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 27
 + James, "The Figure in the Carpet"
 + Jameson, “The Realist Floor-plan”
-+ Exercise 9: CS21/ENGL35 collaborative Austen assignment assigned
++ Exercise 8: CS21/ENGL35 collaborative Austen assignment assigned
 
 ##### November 29
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)+  
-+ *descriptive bibliography projects due 
++ *descriptive bibliography projects due
 
 ##### December 1
 + Master of None, Season 2, Episode 6

@@ -4,6 +4,12 @@ This assignment draws on what you learned in [Exercise 5](https://github.com/rbu
 
 Part 1 walks you through how to do a basic traditional bibliographic description, using text only; Part 2 asks you to produce another kind of description of the same book.
 
+Deadlines:
+
+Nov 3: Traditional descriptive bibliography draft due (post to Known)
+Nov 10: Experimental descriptive bibliography plan due (one paragraph, post to Known)
+Nov 29: Final bibliography projects due, presentations!
+
 ### Part 1: Traditional Bibliographic Description
 
 There are many ways to format a bibliographic description.  Look at Raven and Tanselle for models. There is latitude within these guidelines. (You will not be including much of the detail Tanselle includes, for example.)
@@ -38,9 +44,9 @@ and so on. Represent these as in the following example: A1r title, A1v blank, A2
 
 *This section adapted from the work of Alexandra Gillespie, University of Toronto.*
 
-You will want to format your descriptive bibliography using simple Markdown; Nabil Kashyap and I will offer a basic introduction to using Markdown in class this Wednesday.
+You will want to format your descriptive bibliography using simple Markdown; I will offer a basic introduction to using Markdown in class next week.
 
-Post a draft of your traditional descriptive bibliography to Known by Monday, November 9th.
+Post a draft of your traditional descriptive bibliography to Known by Monday, November 3rd.
 
 ### Part 2: Experimental Bibliographic Description
 
@@ -48,12 +54,10 @@ Now that you have had experience creating a very codified bibliographic descript
 
 If you would like to look at some examples, see riseofthenovel.swarthmore.edu . (The beautiful custom Omeka theme for the site was designed and built by Swarthmore ITS's own Michael Kappeler.)
 
-Post a paragraph about your plan for your experimental descriptive bibliography to Known by Monday, November 16th. On Monday we will have a tutorial on how to format and upload your project.
+Post a paragraph about your plan for your experimental descriptive bibliography to Known by Monday, November 10th. We will have a tutorial on how to format and upload your project.
 
-*The entire project should be uploaded to our Rise of the Novel Omeka site and available for presentation by Sunday, December 6th.*
+*The entire project should be uploaded to our Rise of the Novel Omeka site and available for presentation by Sunday, December 3rd.*
 
 ### Important Notes
 
 If you wish to describe a physical copy of your chosen book instead of a digital facsimile I will try to make some times for you to travel to Penn's rare book library to see them. If you want to do this, make sure that Penn has a first or early edition of the book you are working with by searching the Penn Library's catalog, [Franklin](http://franklin.library.upenn.edu/).
-
-

@@ -6,7 +6,7 @@ Part 1 walks you through how to do a basic traditional bibliographic description
 
 Deadlines:
 
-Nov 3: Traditional descriptive bibliography draft due (post to Known)
+Nov 6: Traditional descriptive bibliography draft due (post to Known)
 Nov 10: Experimental descriptive bibliography plan due (one paragraph, post to Known)
 Nov 29: Final bibliography projects due, presentations!
 

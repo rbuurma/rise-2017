@@ -149,13 +149,14 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 3
 + no class
-+ Traditional descriptive bibliography draft due by Sunday (post to Known)
+
 
 ### Week 10: *The Moonstone* (1868)
 
 ##### November 6
 + *The Moonstone*, 3-271
 + Social media 6: imagined communities?
++ Traditional descriptive bibliography draft due (post to Known)
 
 ##### November 8
 + Exercise 6 due

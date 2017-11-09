@@ -36,27 +36,37 @@ How will we make this comparison? In this particular assignment, we are going to
 
 In this exercise, we will be able to compare a novel we have read - Jane Austen's Northanger Abbey (1790/1818) - with a series of other text corpora - the complete works of the uncanonical (and, for the time, old-fashioned) novelists Mary Brunton, with the generation-earlier corpus of Frances Burney, and with Austen's own complete works. We will then move on to compare both Northanger Abbey and Austen’s complete works with two larger collections of novels: a corpus that has been selected to represent "canonical" novels and one that has been selected to represent “the archive”  - to see what we can learn about how the novels we read in The Rise of the Novel compare with the many other novels we aren't reading.
 
-We will do this by taking a look at the “more standout” or “more distinctive” words in these texts and groups of texts. Starting with two texts (where each text is a novel or a group of multiple novels), we will count how often each word occurred relative to the number of words in each text. So for the word 'everything' in Austen vs Brunton, 'everything' occurred 2 out of 394,890 times (0.00005% of all words) in Brunton but 281 out of 881,546 times (0.03%) in Austen. The ratio (281/881546)/(2/394890)=62.9 tells us that ‘everything’ is about 63 times more likely to appear in Austen than in Brunton. If we calculate this ratio for every word in both documents, we can  find the set of words for each text or group of texts that are, in a sense, the most important words in that text - if we can judge importance by relative frequency of use.
+Comparing a text with a corpus, or a corpus with a corpus, is tricky. We could simply calculate raw frequencies: how many times does the word “anyone” appear in Jane Austen’s novels, and how many times in Mary Brunton’s? But of course we have six Austen novels and only two Brunton novels, so this will be unfair. To even things out, we should divide the count of every word by the total number of words in the corpus. Then, at least, we can compare to similar numbers.
 
-Comparing a text with a corpus, or a corpus with a corpus, is tricky. We could simply calculate raw frequencies: how many times does the word “anyone” appear in Jane Austen’s novels, and how many times in Mary Brunton’s? But of course we have six Austen novels and only two Brunton novels, so this will be unfair. To even things out, we should divide the count of every word by the total number of words in the corpus. What proportion of Austen’s corpus is made up of the word “anyone,” and what proportion of Brunton’s is made up of the word “anyone”? Then, at least, we can compare to similar numbers. Still, those numbers don’t mean much to us, because we
+Let's take an example. What proportion of Austen’s corpus is made up of the word “everything,” and what proportion of Brunton’s is made up of the word “everything”? It turns out that 'everything' occurs just 2 times out of a total of 340,411 words in Brunton, and 310 out of 752,331 words in Austen.
 
-This is the measure we are using in this exercise. However, there are some limits to what it can tell us, and a chance
+Even eyeballing this probably tells us that "everything" is much more prevalent in Austen than in Brunton, but let's figure out what precise proportion of "everything" is each author's collected works by dividing the number of occurrances of "everything" by the total number of words in the author's collected works. So for the word 'everything' in Brunton, dividing 2 by 340,411 (and then multiplying by 100 to make percentages) gives us "everything" as ~ 0.00005% of all words, whereas for "everything" in Austen, dividing 310 by 752,331 and then multiplying by 100 will give us "everything" as ~ 0.04% of all words.
+
+The ratio (310/752331) / (2/340411) = 0.00041205267	/ 0.00000587525 = 70.1 which tells us that ‘everything’ is about 70 times more likely to appear in Austen than in Brunton. If we calculate this ratio for every word in both documents, we can  find the set of words for each text or group of texts that are, in a sense, the most important words in that text - if we can judge importance by relative frequency of use.
+
+This is the measure we are using in this exercise. However, there are some limits to what it can tell us, and a number of other methods for comparing texts and corpora exist; for example,
+you can
+
 
 ### Corpus: to what can we compare Austen?
 
+Comparing Austen's novels and compete works 
 
-Austen
+Almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them.
+
+All of these corpora except for SINGERMENDENHALL are composed of text that were transcribed by a person or people, so they are very accurate. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
+
+AUSTEN
 Our Jane Austen corpus contains the texts of Emma, Lady Susan, Mansfield Park, Northanger Abbey, Persuasion, Pride and Prejudice, and Sense and Sensibility.
 
-Brunton
+BRUNTON
 Our Maria Brunton corpus contains the novels  Discipline and Self-Control.
 
-Burney
+BURNEY
 Our Burney corpus contains Cecelia, Evelina, and The Wanderer. [Note: add Camilla]
 
-Canon
-The “canon” collection contains 44 works of eighteenth- and early-nineteenth-century fiction that are taught frequently in university-level classes on the novel and fiction; we drew them from a survey of 40 recent syllabi. They are Pamela (1740), Tristram Shandy (1749), Evelina (1778), Robinson Crusoe (1719), Tom Jones (1749), Joseph Andrews (1742), Oroonoko, or The Royal Slave (1688), Moll Flanders (1722), Northanger Abbey (1817), Shamela (1741), Clarissa (1748), The Castle of Otranto (1764), Emma (1815), Roxana (1724), The Female Quixote (1752), The Monk (1796), Fantomina: or, Love in a Maze (1724), The Man of Feeling (1771), A Sicilian Romance (1790), A Sentimental Journey (1768), Humphry Clinker (1771), Gulliver’s Travels (1726), Candide (1759), Castle Rackrent (1800), Mansfield Park (1814), The Fair Jilt (1688), Pilgrim's Progress (1678), The Mysteries of Udolpho (1794), Pride and Prejudice (1813), Les Liaisons Dangereuses (1782), The Princesse de Clèves (1678), Sense and Sensibility (1811)
-A Simple Story (1791), The Romance of the Forest (1791), Anti-Pamela (1741), Don Quixote (1615), Jane Eyre (1847), The History of Pompey the Little (1750), Belinda (1801), Roderick Random (1748), The History of Rasselas (1759), The Italian (1797), Waverley (1814). (Love in Excess (1719) is on this list but not included because of the lack of a readily available machine-readable text.)
+CANON
+The “canon” collection contains 44 works of eighteenth- and early-nineteenth-century fiction that are taught frequently in university-level classes on the novel and fiction; we drew them from a survey of 40 recent syllabi. They are Pamela (1740), Tristram Shandy (1749), Evelina (1778), Robinson Crusoe (1719), Tom Jones (1749), Joseph Andrews (1742), Oroonoko, or The Royal Slave (1688), Moll Flanders (1722), Northanger Abbey (1817), Shamela (1741), Clarissa (1748), The Castle of Otranto (1764), Emma (1815), Roxana (1724), The Female Quixote (1752), The Monk (1796), Fantomina: or, Love in a Maze (1724), The Man of Feeling (1771), A Sicilian Romance (1790), A Sentimental Journey (1768), Humphry Clinker (1771), Gulliver’s Travels (1726), Candide (1759), Castle Rackrent (1800), Mansfield Park (1814), The Fair Jilt (1688), Pilgrim's Progress (1678), The Mysteries of Udolpho (1794), Pride and Prejudice (1813), Les Liaisons Dangereuses (1782), The Princesse de Clèves (1678), Sense and Sensibility (1811), A Simple Story (1791), The Romance of the Forest (1791), Anti-Pamela (1741), Don Quixote (1615), Jane Eyre (1847), The History of Pompey the Little (1750), Belinda (1801), Roderick Random (1748), The History of Rasselas (1759), The Italian (1797), Waverley (1814). (Love in Excess (1719) is on this list but not included because of the lack of a readily available machine-readable text.)
 
 Archive
 We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been . Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the Chawton House Library’s Novels Online project, which contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.

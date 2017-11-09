@@ -167,7 +167,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 10
 + *The Moonstone*, continued
 + Selection from Gallagher, "The Rise of Fictionality"
-+ Experimental descriptive bibliography plan due (one paragraph, post to Known)
++ Experimental descriptive bibliography plan due SUNDAY (one paragraph, post to Known)
 
 ### Week 11: *The Moonstone*
 

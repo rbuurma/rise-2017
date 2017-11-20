@@ -32,7 +32,7 @@ It is important to understand that when we create any computational model of a t
 
 ### More Distinctive Words
 
-How will we make this comparison? In this particular assignment, we are going to compare different texts and collections of texts in order to find out what their most distinctive words are. These distinctive words will - for the purposes of this assignment - act as a very reductive stand-in for the texts they are drawn from. Because this is such a reductive model of a text, we won’t be able to answer most questions a literary critic would have about single text she was studying. However, reducing the scope of our evidence in this way WILL allow us to answer a few questions about a much larger group of texts.
+How will we make this comparison? In this particular assignment, we are going to compare different texts and collections of texts in order to find out what their most distinctive words are. These distinctive words will - for the purposes of this assignment - act as a very reductive description of the texts they are drawn from. Because this is such a reductive model of a text, we won’t be able to answer most questions a literary critic would have about single text she was studying. However, reducing the scope of our evidence in this way WILL allow us to answer a few questions about a much larger group of texts.
 
 In this exercise, we will be able to compare a novel we have read - Jane Austen's Northanger Abbey (1790/1818) - with a series of other text corpora - the complete works of the uncanonical (and, for the time, old-fashioned) novelists Mary Brunton, with the generation-earlier corpus of Frances Burney, and with Austen's own complete works. We will then move on to compare both Northanger Abbey and Austen’s complete works with two larger collections of novels: a corpus that has been selected to represent "canonical" novels and one that has been selected to represent “the archive”  - to see what we can learn about how the novels we read in The Rise of the Novel compare with the many other novels we aren't reading.
 
@@ -45,12 +45,12 @@ Even eyeballing this probably tells us that "everything" is much more prevalent 
 The ratio (310/752331) / (2/340411) = 0.00041205267	/ 0.00000587525 = 70.1 which tells us that ‘everything’ is about 70 times more likely to appear in Austen than in Brunton. If we calculate this ratio for every word in both documents, we can  find the set of words for each text or group of texts that are, in a sense, the most important words in that text - if we can judge importance by relative frequency of use.
 
 This is the measure we are using in this exercise. However, there are some limits to what it can tell us, and a number of other methods for comparing texts and corpora exist; for example,
-you can
+In the "Further Reading" and "Extra Credit" sections you will find ideas and examples of how some people have gone about accounting for these shortcomings. The bottom line, however, is that we may be able to build a better way of determining which words to use as a representation or stand-in for our texts, but they will always remain a very specific and partial representation. This is a *good* thing.
 
 
 ### Corpus: to what can we compare Austen?
 
-Comparing Austen's novels and compete works 
+Comparing Austen's novels and compete works to "everything else" sounds great in theor
 
 Almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them.
 
@@ -69,12 +69,24 @@ CANON
 The “canon” collection contains 44 works of eighteenth- and early-nineteenth-century fiction that are taught frequently in university-level classes on the novel and fiction; we drew them from a survey of 40 recent syllabi. They are Pamela (1740), Tristram Shandy (1749), Evelina (1778), Robinson Crusoe (1719), Tom Jones (1749), Joseph Andrews (1742), Oroonoko, or The Royal Slave (1688), Moll Flanders (1722), Northanger Abbey (1817), Shamela (1741), Clarissa (1748), The Castle of Otranto (1764), Emma (1815), Roxana (1724), The Female Quixote (1752), The Monk (1796), Fantomina: or, Love in a Maze (1724), The Man of Feeling (1771), A Sicilian Romance (1790), A Sentimental Journey (1768), Humphry Clinker (1771), Gulliver’s Travels (1726), Candide (1759), Castle Rackrent (1800), Mansfield Park (1814), The Fair Jilt (1688), Pilgrim's Progress (1678), The Mysteries of Udolpho (1794), Pride and Prejudice (1813), Les Liaisons Dangereuses (1782), The Princesse de Clèves (1678), Sense and Sensibility (1811), A Simple Story (1791), The Romance of the Forest (1791), Anti-Pamela (1741), Don Quixote (1615), Jane Eyre (1847), The History of Pompey the Little (1750), Belinda (1801), Roderick Random (1748), The History of Rasselas (1759), The Italian (1797), Waverley (1814). (Love in Excess (1719) is on this list but not included because of the lack of a readily available machine-readable text.)
 
 Archive
-We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been . Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the Chawton House Library’s Novels Online project, which contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
+We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been read much since. Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the Chawton House Library’s Novels Online project, which contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
 
 A alternate model for “archive” is SINGERMENDENHALL. This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania.
 
+### How to run the CS21 "more distinctive words" program [fill this in]
 
-### Questions
+Our friends in CS21 have written a program that will help us do this. We will walk through the program in class so that you have a basic idea of how it implements the “most distinctive word” calculation. [Rich, can you add a brief explanation or  narrative version of the pseudocode?]
+
+We will be running this program - written in the programming language Python - from the command line via your Terminal. The command line is simply a different way of interacting with the files and programs on your computer.
+
+
+[add command line image]
+
+1. All of the commands you
+
+### Questions and Interpretation
+
+Creating lists of "most distinctive words" is the end of work of the CS21 class, but the beginning of our work in this ENGL035 assignment.  
 
 Spend some time
 
@@ -83,8 +95,6 @@ Specifically, we will ask whether some of Ian Watt’s claim about Austen’s no
 The more general
 What “most standout word” metrics *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries
 
-### Using the CS21 Program
-Our friends in CS21 have written a program that will help us do this. We will walk through the program in class so that you have a basic idea of how it implements the “most distinctive word” calculation. [Rich, can you add a brief explanation or  narrative version of the pseudocode?]
 
 ### Extra credit for non-CS people
 

@@ -160,11 +160,23 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 8
 + Exercise 6 due
-+ Exercise 7 assigned
++ Exercise 7 assigned (optional)
 + Topic modeling lab
 + *The Moonstone*, continued
 
 ##### November 10
++ *The Moonstone*, continued
++ Selection from Gallagher, "The Rise of Fictionality"
++ Experimental descriptive bibliography plan due SUNDAY (one paragraph, post to Known)
+
+### Week 11: *The Moonstone*
+
+##### November 13
++ *The Moonstone*, 272-472
++ final paper/project assigned
+
+##### November 15
++ *The Moonstone*, continued##### November 10
 + *The Moonstone*, continued
 + Selection from Gallagher, "The Rise of Fictionality"
 + Experimental descriptive bibliography plan due SUNDAY (one paragraph, post to Known)
@@ -178,6 +190,11 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 15
 + *The Moonstone*, continued
++ Exercise 7 due (optional)
+
+##### November 17
++ Selection from Foucault, *Discipline and Punish*
++ Selection from Miller, *The Novel and the Police* (chapter 2, 41-45, 52-57)
 + Exercise 7 due
 
 ##### November 17
@@ -193,7 +210,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 22
 + tba
-+ Exercise 9 warm-up: command line exercise
++ Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
 
 ##### November 24
 + No class – Thanksgiving break
@@ -203,12 +220,13 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### November 27
 + James, "The Figure in the Carpet"
 + Jameson, “The Realist Floor-plan”
++ Remember to do exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
 + Exercise 8: CS21/ENGL35 collaborative Austen assignment assigned
 
 ##### November 29
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)+  
-+ *descriptive bibliography projects due
++ descriptive bibliography projects due
 
 ##### December 1
 + Master of None, Season 2, Episode 6

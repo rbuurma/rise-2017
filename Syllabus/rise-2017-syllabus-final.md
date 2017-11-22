@@ -225,20 +225,22 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 
 ##### November 29
 + *Ulysses*, "Nausicaa" chapter
-+ optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)+  
++ optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
++ aim to have elements of descriptive bibliography project finished
 
 ##### December 1
 + Master of None, Season 2, Episode 6
 + Social media 8: the invention of the everyday
 + Discuss criticism exam
 
-*December 3: + descriptive bibliography projects due*
+*December 3: descriptive bibliography projects fully uploaded*
 
 ### Week 14: A House for Mr. Biswas (1961)
 
 ##### December 4
 + A House for Mr. Biswas, 5-291
 + Final paper plans due; final paper meetings with me this week
++ descriptive bibliography lightening round (present your project in 30 seconds)
 
 ##### December 6
 + Exercise 9

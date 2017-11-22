@@ -1,22 +1,15 @@
-
-Notes to self:
-
-Must teach students how to check their version of Python, how to install Python3, how to use github to grab the program, how to use the command line to run the program, how to troubleshoot basic problems
-
-Must scaffold this in to November - maybe via teaching them to use Markdown + Pandoc which I should do anyway, or maybe just via Command Line Bootcamp
-
 ## Anyone, anywhere, anybody: computing Austen’s differences
-### CS21-ENGL35 Fall 2017 joint assignment
+### CS21-ENGL35 Fall 2017 collaborative assignment
 
 DRAFT
 
 ## Intro
 
-In ENGL035: The Rise of the Novel we have been studying the history of the novel. We’re interested in the history of the novel for many reasons. For a long time, people have written and read novels for entertainment and for instruction; to learn about people unlike themselves, and to see representations of people like themselves circulate in print; to learn information about the world, and to learn new ways of thinking and feeling. In this class, we have been especially interested in how the novel developed both as a reflection of social and psychological life and a model for it. That is, the novel was form that reflected what it was like to think, feel, and live as an everyday and historically unremarkable person, but it was also as a form that helped readers learn the range of possibilities for how they might learn to think, feel, and live as everyday people. The novel helped you learn how you might fall in love, grow up, be (or become) a woman (or a man), mourn the loss of a child, and - perhaps most importantly - come to to understand (or believe) how you are (or are potentially) a valuable and interesting person even in the face of overwhelming evidence that you are actually a very ordinary and very replaceable person.
+In ENGL035: The Rise of the Novel we have been studying the history of the novel. We’re interested in the history of the novel for many reasons. For a long time, people have written and read novels for entertainment and for instruction; to learn about people unlike themselves, and to see representations of people like themselves circulate in print; to learn about the world, and to learn new ways of thinking and feeling. In this class, we have been especially interested in how the novel developed both as a reflection of social and psychological life and a model for it. That is, the novel was a form that reflected what it was like to think, feel, and live as an everyday and historically unremarkable person, but it was also a form that opened up new possibilities for how a reader might think, feel, and live as an everyday person. The novel helped you learn how you might fall in love, grow up, be (or become, or refuse to become) a woman (or a man), grow old, or mourn the loss of a child. Perhaps most importantly, the novel could help you understand (or believe) that you are (or are potentially) a valuable and interesting person even in the face of overwhelming evidence that you are actually a very ordinary and very replaceable person.
 
-When we read novels for the purpose of discussing them in a classroom, we read them in part as we read when we read for pleasure - from cover to cover, following the plot, identifying (or not) with characters, enjoying the scenery. But we also read them more discontinuously and intensively - skipping around to search for evidence of a claim, dwelling for twenty minutes on a single word (as on October 25, 2017, when we spent that amount of time discussing the final word of Evelina, which is “Evelina”). And while reading takes a long time, novels themselves are long (sometimes VERY long), and the semester and our attention spans are short. Therefore in Rise we will only be able to read (give or take) ten novels published over the span of 242 years (1719-1961). During this time, hundreds of thousands of novels were published, so we need to be selective.
+When we read novels for the purpose of discussing them in a classroom, we read them in part as we read when we read for pleasure - from cover to cover, following the plot, identifying (or not) with characters, enjoying the scenery. But we also read them more discontinuously and intensively - skipping around to search for evidence of a claim, dwelling for twenty minutes on a single word (as on that memorable October 25, 2017, when we spent that amount of time discussing the final word of Evelina, which is “Evelina”). This kind of reading takes a long time, novels themselves are long (sometimes VERY long), and the semester and our attention spans are short. Therefore in this class we have only been able to read (give or take) ten novels published over the span of 242 years (1719-1961). During this timespan, hundreds of thousands of novels were published, so we need to be selective.
 
-How do we choose? We choose novels for a syllabus like ours - in which we can only read ten novels - not because they are "average" nor because they are wholly "exceptional," but because they are "exemplary." The are in some sense the "best," yes, but they are the best "of their kind." They must somehow split the difference between representing larger groups of novels (so that we can learn something about "the novel" in the class, not just something about ten novels random novels) and being compelling and important in their own right. This usually involves making some claim about how our choices are both representative but also distinctive. Jane Austen's novels, for example, are regularly framed as distinctive. Though it is clear how they draw on existing conventions, we also imagine them as somehow significantly different from the novels that came before them. For critic Ian Watt, for example, Austen is innovative in the way she joins different forms of realism that were previously separate, allowing one novel to be both psychologically realist and yet also true to external life. For critics like D.A. Miller and Frances Ferguson, Austen's narrative style (her impersonal narrator and use of free indirect discourse) is both new and trendsetting.  (Interestingly, this razor's-edge logic of the canon is also a logic the novel itself must negotiated: it must represent characters who are unusual enough to be interesting and yet average enough to pass as everyday people.)
+How do we choose? We choose novels for a syllabus like ours - in which we can only read ten novels - not because they are "average" nor because they are wholly "exceptional," but because they are "exemplary." The are in some (controversial) sense the "best," yes, but they are the best "of their kind." They must somehow represent larger groups of novels (so that we can learn something about "the novel" in the class, not just something about ten random novels), and yet they must also be compelling and important in their own right. We implicitly claim, therefore, that each novel on our syllabus is  representative but also distinctive. Jane Austen's novels, for example, are regularly framed in this way. Though it is clear how they draw on existing conventions, we also imagine them as significantly different from the novels that came before them, and as exerting a strong influence on the novels that came after them. For critic Ian Watt, for example, Austen is innovative in the way she joins different forms of realism that were previously separate, allowing one novel to be both psychologically realist and yet also true to external life. For critics like D.A. Miller and Frances Ferguson, Austen's narrative style (her impersonal narrator and use of free indirect discourse) is both new and trendsetting.  (Interestingly, as we've discussed in class, this razor's-edge logic of the exemplary canon is also a logic the novel itself must negotiate: it must represent characters who are unusual enough to be interesting and yet average enough to pass as everyday people, who in the words of Catherine Gallagher.)
 
 ## Comparison: How?
 
@@ -44,73 +37,95 @@ Even eyeballing this probably tells us that "everything" is much more prevalent 
 
 The ratio (310/752331) / (2/340411) = 0.00041205267	/ 0.00000587525 = 70.1 which tells us that ‘everything’ is about 70 times more likely to appear in Austen than in Brunton. If we calculate this ratio for every word in both documents, we can  find the set of words for each text or group of texts that are, in a sense, the most important words in that text - if we can judge importance by relative frequency of use.
 
-This is the measure we are using in this exercise. However, there are some limits to what it can tell us, and a number of other methods for comparing texts and corpora exist; for example,
+This is the measure we are using in this exercise. However, there are some limits to what it can tell us, and a number of other methods for comparing texts and corpora exist. (For example, see )
 In the "Further Reading" and "Extra Credit" sections you will find ideas and examples of how some people have gone about accounting for these shortcomings. The bottom line, however, is that we may be able to build a better way of determining which words to use as a representation or stand-in for our texts, but they will always remain a very specific and partial representation. This is a *good* thing.
 
 
 ### Corpus: to what can we compare Austen?
 
-Comparing Austen's novels and compete works to "everything else" sounds great in theor
+Comparing Austen's novels and compete works to "everything else" sounds great in theory; how will it work in practice? First, we need to determine what groups of novels we might want to compare to Austen's; then we need to figure out if they exist in "clean," machine-readable text form. (As we learned in Assignment 4, even if we have a digital facsimile of a novel, using OCR on it won't necessarily give us a good-enough machine-readable text.)
 
-Almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them.
+For this assignment, we will use the texts and corpora described below.
 
-All of these corpora except for SINGERMENDENHALL are composed of text that were transcribed by a person or people, so they are very accurate. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
+All of these corpora are composed of text that were transcribed by a person or people, so they are very accurate. Almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
 
-AUSTEN
+#### AUSTEN
 Our Jane Austen corpus contains the texts of Emma, Lady Susan, Mansfield Park, Northanger Abbey, Persuasion, Pride and Prejudice, and Sense and Sensibility.
 
-BRUNTON
-Our Maria Brunton corpus contains the novels  Discipline and Self-Control.
+#### BRUNTON
+Our Maria Brunton corpus contains the novels Discipline and Self-Control.
 
-BURNEY
+#### BURNEY
 Our Burney corpus contains Cecelia, Evelina, and The Wanderer. [Note: add Camilla]
 
-CANON
-The “canon” collection contains 44 works of eighteenth- and early-nineteenth-century fiction that are taught frequently in university-level classes on the novel and fiction; we drew them from a survey of 40 recent syllabi. They are Pamela (1740), Tristram Shandy (1749), Evelina (1778), Robinson Crusoe (1719), Tom Jones (1749), Joseph Andrews (1742), Oroonoko, or The Royal Slave (1688), Moll Flanders (1722), Northanger Abbey (1817), Shamela (1741), Clarissa (1748), The Castle of Otranto (1764), Emma (1815), Roxana (1724), The Female Quixote (1752), The Monk (1796), Fantomina: or, Love in a Maze (1724), The Man of Feeling (1771), A Sicilian Romance (1790), A Sentimental Journey (1768), Humphry Clinker (1771), Gulliver’s Travels (1726), Candide (1759), Castle Rackrent (1800), Mansfield Park (1814), The Fair Jilt (1688), Pilgrim's Progress (1678), The Mysteries of Udolpho (1794), Pride and Prejudice (1813), Les Liaisons Dangereuses (1782), The Princesse de Clèves (1678), Sense and Sensibility (1811), A Simple Story (1791), The Romance of the Forest (1791), Anti-Pamela (1741), Don Quixote (1615), Jane Eyre (1847), The History of Pompey the Little (1750), Belinda (1801), Roderick Random (1748), The History of Rasselas (1759), The Italian (1797), Waverley (1814). (Love in Excess (1719) is on this list but not included because of the lack of a readily available machine-readable text.)
+#### CANON
+The “canon” collection contains 44 works of eighteenth- and early-nineteenth-century fiction that are taught frequently in university-level classes on the novel and fiction; we drew them from a survey of 40 recent syllabi for eighteenth-century and history of the novel classs. They are Pamela (1740), Tristram Shandy (1749), Evelina (1778), Robinson Crusoe (1719), Tom Jones (1749), Joseph Andrews (1742), Oroonoko, or The Royal Slave (1688), Moll Flanders (1722), Northanger Abbey (1817), Shamela (1741), Clarissa (1748), The Castle of Otranto (1764), Emma (1815), Roxana (1724), The Female Quixote (1752), The Monk (1796), Fantomina: or, Love in a Maze (1724), The Man of Feeling (1771), A Sicilian Romance (1790), A Sentimental Journey (1768), Humphry Clinker (1771), Gulliver’s Travels (1726), Candide (1759), Castle Rackrent (1800), Mansfield Park (1814), The Fair Jilt (1688), Pilgrim's Progress (1678), The Mysteries of Udolpho (1794), Pride and Prejudice (1813), Les Liaisons Dangereuses (1782), The Princesse de Clèves (1678), Sense and Sensibility (1811), A Simple Story (1791), The Romance of the Forest (1791), Anti-Pamela (1741), Don Quixote (1615), Jane Eyre (1847), The History of Pompey the Little (1750), Belinda (1801), Roderick Random (1748), The History of Rasselas (1759), The Italian (1797), Waverley (1814). (Love in Excess (1719) is on this list but not included because of the lack of a readily available machine-readable text.) They come primarily from the Project Gutenberg archive.
 
-Archive
+#### Archive
 We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been read much since. Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the Chawton House Library’s Novels Online project, which contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
 
-A alternate model for “archive” is SINGERMENDENHALL. This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania.
+A alternate model for “archive” is SINGERMENDENHALL. This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words.
+
+Are either of these corpora a perfect representation of the "real" archive of late-eighteenth and early-nineteenth-century fiction? Nope! But there's really no perfect representation, and there is a lot we can learn from this one.
 
 ### How to run the CS21 "more distinctive words" program [fill this in]
 
-Our friends in CS21 have written a program that will help us do this. We will walk through the program in class so that you have a basic idea of how it implements the “most distinctive word” calculation. [Rich, can you add a brief explanation or  narrative version of the pseudocode?]
+We will walk through the program in class so that you have a basic idea of how it implements the “most distinctive word” calculation. [Rich, can you add a brief explanation or  narrative version of the pseudocode?]
 
-We will be running this program - written in the programming language Python - from the command line via your Terminal. The command line is simply a different way of interacting with the files and programs on your computer.
+We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
+1. Download the folder containing the corpora and program into your own computer. Save it somewhere that makes sense to you.
 
-[add command line image]
+2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
 
-1. All of the commands you
+3. To run the program, enter the command:
+
+> python3 sample.py
+
+And follow the assignment's prompts to compare two texts or corpora.
+
+You will see a few outputs. First, there will be a list of most frequent words in each corpus with a number alongside telling you how many times that word occurs. These can be potentially interesting, but will not be our primary focus. Next comes the two list of "most distinctive" word in each corpus; each word is accompanied by a number that tells you how many times the word word appears in Corpus A than in Corpus B.
+
+You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC.)
 
 ### Questions and Interpretation
 
-Creating lists of "most distinctive words" is the end of work of the CS21 class, but the beginning of our work in this ENGL035 assignment.  
+1. Once you have the program running, try these comparisons first: The AUSTEN corpus to BRUNTON, CHAWTON, and CANON corpora.
 
-Spend some time
+You will see at least one fairly striking result in this comparison.
 
-Specifically, we will ask whether some of Ian Watt’s claim about Austen’s novels seem to be upheld or contradicted by what we can learn from looking at the kinds of words Austen uses in comparison with the kinds of words her peers used. At the end of The Rise of the Novel, Watt celebrates Austen’s reconciliation of the two divergent goals aimed at by novelists writing during the seventy-odd years before her. Some of these earlier novelists, Watt suggests, sought to represent the “realism of presentation,”  “the subjective and psychological” realities of characters; others focused on “the realism of assessment,” aiming at a “portrayal of society” that focused on external realities. Austen, Watt suggested, was able to achieve this in part by restricting her vision to a more narrow field than some earlier novelists had attempted. By examining common and "most standout" words in Austen in comparison to a corpus of earlier and contemporary novels by other novelists, and by comparing earlier Austen novels with later Austen novels, we will be able to think about Watt's argument using a new evidence set. By examining "more likely" words and looking at some of them in context, we will be able to (tentatively) assess whether Austen seems to be "restricting her vision to a more narrow field" than earlier novelists. And we will be able to ask  ----?
 
-The more general
-What “most standout word” metrics *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries
+2. Next, map out come comparisons - between Austen's novels and other groups of novels, and between individual Austen novels and other individual novels - that you would like to make in order to answer some of the questions below.
+
+
+
+
+Note: We cannot answer the question of whether Austen is different from her contemporaries, because we have built difference into our output: our friends in CS21 have constructed a program that will find difference no matter what. But given difference, we can use the lists o
+
+So what “more distinctive” metrics *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries
+
+### Write
+
+After
+
+
 
 
 ### Extra credit for non-CS people
 
 Open the script in Atom or a similar code-editing tool and modify the script to do one of the following:
 
-Display 20 words instead of 10
+Display 20 words instead of 10 and re-run the script.
 
-The number of words that must appear in both corpora for the word to appear at all in the results output is currently 5; set that number to a different number.
+The number of words that must appear in both corpora for the word to appear at all in the results output is currently 5; set that number to a different number and re-run the script.
 
 ### Extra credit for anyone
 
-In his book Nabokov’s Favorite Word is Mauve, data journalist Ben Blatt notes that Jane Austen’s “use of words like very is off the charts,” and gives an example:
+In his book Nabokov’s Favorite Word is Mauve, data journalist Ben Blatt notes that Jane Austen’s “use of words like "very" is off the charts,” and gives an example:
 
 [add image]
 
-Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of some larger potential dangers of the computational text analysis of literature?
+Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved?
 
 ### Extra credit for anyone
 
@@ -142,6 +157,14 @@ http://sappingattention.blogspot.com/2011/11/compare-and-contrast.html
 http://sappingattention.blogspot.com/2011/10/dunning-statistics-on-authors.html
 
 Stephen Ramsay
+
+Austen
+
+Sarah Allison
+
+Richard
+
+Other thanks from Twittr
 
 
 APPENDIX 3: programming tasks at the core of CS21 assignment

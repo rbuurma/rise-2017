@@ -68,9 +68,9 @@ A alternate model for “archive” is SINGERMENDENHALL. This corpus contains se
 
 Are either of these corpora a perfect representation of the "real" archive of late-eighteenth and early-nineteenth-century fiction? Nope! But there's really no perfect representation, and there is a lot we can learn from this one.
 
-### How to run the CS21 "more distinctive words" program [fill this in]
+### How to run the CS21 "more distinctive words" program [
 
-We will walk through the program in class so that you have a basic idea of how it implements the “most distinctive word” calculation. [Rich, can you add a brief explanation or  narrative version of the pseudocode?]
+We will walk through the program with Professor Wicentowski in class next week so that you have a basic idea of how it implements the “most distinctive word” calculation.
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
@@ -92,23 +92,22 @@ You will then also be able to select any word from that list and ask the program
 
 1. Once you have the program running, try these comparisons first: The AUSTEN corpus to BRUNTON, CHAWTON, and CANON corpora.
 
-You will see at least one fairly striking result in this comparison.
+You will see at least one fairly striking result in this comparison. Think back to the
 
+2. Next, map out come other comparisons - between Austen's novels and other groups of novels, and between individual Austen novels and other individual novels - that you would like to make in order to answer some of the questions below.
 
-2. Next, map out come comparisons - between Austen's novels and other groups of novels, and between individual Austen novels and other individual novels - that you would like to make in order to answer some of the questions below.
+Note: We cannot answer the question of whether Austen is different from her contemporaries, because we have built difference into our output: our friends in CS21 have constructed a program that will find difference no matter what. That is, what “more distinctive” word comparisons *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries. But given difference, we can use the lists of "most distinctive" words to look at the *shape difference takes* once we have built in the presence of difference. Even this very reductive and simplel
 
-
-
-
-Note: We cannot answer the question of whether Austen is different from her contemporaries, because we have built difference into our output: our friends in CS21 have constructed a program that will find difference no matter what. But given difference, we can use the lists o
-
-So what “more distinctive” metrics *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries
 
 ### Write
 
-After
+After making a series of comparisons write 4-5 paragraphs describing your results and speculating on your interpretation of them. Please include some consideration of
 
+1. The AUSTEN corpus in comparison with BRUNTON, CHAWTON, and CANON corpora in light of Catherine Gallagher's argument in "The Rise of Fictionality"
 
+2. Some other interesting result from a comparison that you have made in the context of another one of our critical or theoretical readings. 
+
+3. Some consideration of what it means to make comparisons between texts and corpora in this way along side the way any one of our critics has made - or implied - comparisons between texts or corpora/groups of texts.
 
 
 ### Extra credit for non-CS people
@@ -127,7 +126,7 @@ In his book Nabokov’s Favorite Word is Mauve, data journalist Ben Blatt notes 
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved?
 
-### Extra credit for anyone
+### Extra credit for anyone (forthcoming)
 
 Here are two studies that use “most distinctive” words
 The first, “   “ by Matt Jockers and     ,  parses a corpus of about 3,000 nineteenth-century novels into pronoun-verb pairs. Using pronoun gender as the variable, Jockers and X try to discover whether there are patterns to the relation between pronoun gender and verb. Another study, inspired by
@@ -139,7 +138,7 @@ The second ask you to turn to
 -add a “reinterpret” assignment for https://juliasilge.com/blog/gender-pronouns/ - need to think about narrated vs reported speech, FID, non-FID, and first person (ie, Jane Eyre). Think about how KWiC might help check some of this. Think about what other data you might want to better get at this question about gender. Think about the role of gender in text analysis. Read also the Jockers-
 
 
-Citations and related work
+### Citations and related work
 
 Eric Simpson, Jane Austen and contemporary prose style
 https://pagesandlights.wordpress.com/2013/01/23/jane-austen-and-contemporary-prose-style/
@@ -158,23 +157,7 @@ http://sappingattention.blogspot.com/2011/10/dunning-statistics-on-authors.html
 
 Stephen Ramsay
 
-Austen
 
 Sarah Allison
 
 Richard
-
-Other thanks from Twittr
-
-
-APPENDIX 3: programming tasks at the core of CS21 assignment
-
-For the texts and groups of texts like those listed below, students will extract and write to a file:
-
-1. Lists of "most common" words in the given texts and corpora
-
-2. Lists of "most standout” words in given pairs of texts and corpora
-
-Note: "More standout" or “more distinctive” words are created by taking a count of how often each word in two compared texts (or groups of texts) occurred relative to the number of words in each text. (For example, for the word 'everything' in  novels by Jane Austen vs. novels by Mary Brunton, 'everything' occurred 2 out of 394,890 times in Brunton but 281 out of 881,546 in Austen. The ratio (2/394890) / (281/881546) was bigger than any other ratio for any word that occurs in Austen and Brunton.)
-
-3. Keyword in Context (kwic) lists for selected interesting "more likely" words

@@ -221,12 +221,12 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 + James, "The Figure in the Carpet"
 + Jameson, “The Realist Floor-plan”
 + Remember to do exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
-+ Exercise 8: CS21/ENGL35 collaborative Austen assignment assigned
 
 ##### November 29
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
 + aim to have elements of descriptive bibliography project finished
++ Exercise 8: CS21/ENGL35 collaborative Austen assignment assigned
 
 ##### December 1
 + Master of None, Season 2, Episode 6
@@ -243,7 +243,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 + descriptive bibliography lightening round (present your project in 30 seconds)
 
 ##### December 6
-+ Exercise 9
++ Exercise 8 due
 + Homi Bhabha, “The World and the Home” handout
 + Social media 9: platform
 

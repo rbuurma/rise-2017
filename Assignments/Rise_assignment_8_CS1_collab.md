@@ -73,11 +73,11 @@ Are either of these corpora a perfect representation of the "real" archive of la
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
-1. Download the folder containing the corpora and program into your own computer. Save it somewhere that makes sense to you.
+1. Download the [Rise17-Assignment8](https://github.com/rbuurma/rise-17-assignment8)repository into your own computer. Save it somewhere that makes sense to you.
 
 2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
 
-3. To run the program, enter the command:
+3. In the "bin" folder you will see several versions of the code written by various students from CS21. Each version of the code will do the same thing. To run the code, tell the computer that you will be using python 3, and then tell it which code file you want to use. For example, if you want to run the version of the programm called sample.py, enter:
 
 > python3 sample.py
 
@@ -97,12 +97,12 @@ You will see at least one fairly striking result in this comparison. Think back 
 
 2. Next, map out come other comparisons - between Austen's novels and other groups of novels, and between individual Austen novels and other individual novels - that you would like to make in order to answer some of the questions below.
 
-Note: We cannot answer the question of whether Austen is different from her contemporaries, because we have built difference into our output: our friends in CS21 have constructed a program that will find difference no matter what. That is, what “more distinctive” word comparisons *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries. But given difference, we can use the lists of "most distinctive" words to look at the *shape difference takes* once we have built in the presence of difference. Even this very reductive and simplel
+Note: We cannot answer the question of whether Austen is different from her contemporaries, because we have built difference into our output: our friends in CS21 have constructed a program that will find difference no matter what. That is, what “more distinctive” word comparisons *can’t* do is prove that Austen is generally divergent or distinctive from her contemporaries. But given difference, we can use the lists of "most distinctive" words to look at the *shape difference takes* once we have built in the presence of difference.
 
 
 ### Write
 
-After making a series of comparisons write 4-5 paragraphs describing your results and speculating on your interpretation of them. Please include some consideration of
+After making a series of comparisons write 4-5 paragraphs describing your results and speculating on your interpretation of them.  
 
 1. The AUSTEN corpus in comparison with BRUNTON, CHAWTON, and CANON corpora in light of Catherine Gallagher's argument in "The Rise of Fictionality"
 

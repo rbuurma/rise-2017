@@ -349,7 +349,7 @@ Though this will certainly vary as needed, in general our Mondays will be dedica
 + 25% 10-12 page final paper or project
 
 #### Laptops and phones
-This policy is constantly in flux for me across courses and semesters, but this year in this class I am going to ask that you do not use a laptop, tablet, or phone for note-taking (or anything else) during class time unless we specifically need one for our class activities. We may change this policy over the course of the semester. If you are a hardcore computer note-taker come discuss your strategy for preventing your computer from distracting you and I may make an exception. I’ll also ask that you silence and put away your mobile phone for the duration of class. Disability accommodations requiring the use of a computer are of course an exception.
+This policy is constantly in flux for me across courses and semesters, but this year in this class I am going to ask that you do not use a laptop, tablet, or phone for note-taking during class time unless we specifically need one for our class activities. We may change this policy over the course of the semester. If you are a hardcore computer note-taker come discuss your strategy for preventing your computer from distracting you and I may make an exception. I’ll also ask that you silence and put away your mobile phone for the duration of class. Disability accommodations requiring the use of a computer are of course an exception.
 
 #### Plagiarism
 Plagiarism is a very serious offence. It includes both the direct copying of the words of another person without crediting him or her and paraphrasing the ideas of another person without giving credit. See the English department’s guidelines on how to properly cite sources here:

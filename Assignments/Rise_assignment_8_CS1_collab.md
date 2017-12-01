@@ -1,5 +1,6 @@
 ## Anyone, anywhere, anybody: computing Austen’s differences
 ### CS21-ENGL35 Fall 2017 collaborative assignment
+#### by Rachel Buurma and Rich Wicentowski
 
 ## Intro
 
@@ -47,6 +48,8 @@ For this assignment, we will use the texts and corpora described below.
 
 All of these corpora are composed of text that were transcribed by a person or people, so they are very accurate. Almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
 
+We are grateful that [Yumi D. Shiroma](http://yumidineenshiroma.org/) contributed her expertise to the creation and assembly of these corpora.
+
 #### AUSTEN
 Our Jane Austen corpus contains the texts of Emma, Lady Susan, Mansfield Park, Northanger Abbey, Persuasion, Pride and Prejudice, and Sense and Sensibility.
 
@@ -62,13 +65,11 @@ The “canon” collection contains 44 works of eighteenth- and early-nineteenth
 #### Archive
 We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been read much since. Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the Chawton House Library’s Novels Online project, which contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
 
-A alternate model for “archive” is SINGERMENDENHALL. This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words.
+A alternate model for “archive” is [SINGERMENDENHALL](https://github.com/earlynovels/digital-collection). This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania. The SINGERMENDENHALL corpus is different because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The corpus was selected and curated by Dr. Alice McGrath and Dr. Lindsay Van Tine.
 
 Are either of these corpora a perfect representation of the "real" archive of late-eighteenth and early-nineteenth-century fiction? Nope! But there's really no perfect representation, and there is a lot we can learn from this one.
 
-### How to run the CS21 "more distinctive words" program [
-
-We will walk through the program with Professor Wicentowski in class next week so that you have a basic idea of how it implements the “most distinctive word” calculation.
+### How to run the CS21 "more distinctive words" program
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
@@ -85,6 +86,8 @@ And follow the assignment's prompts to compare two texts or corpora.
 You will see a few outputs. First, there will be a list of most frequent words in each corpus with a number alongside telling you how many times that word occurs. These can be potentially interesting, but will not be our primary focus. Next comes the two list of "most distinctive" word in each corpus; each word is accompanied by a number that tells you how many times the word word appears in Corpus A than in Corpus B.
 
 You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC.)
+
+We will walk through the program with Professor Wicentowski in class next week so that you have a basic idea of how it implements the “most distinctive word” calculation.
 
 ### Questions and Interpretation
 
@@ -120,7 +123,7 @@ The number of words that must appear in both corpora for the word to appear at a
 
 In his book Nabokov’s Favorite Word is Mauve, data journalist Ben Blatt notes that Jane Austen’s “use of words like "very" is off the charts,” and gives an example:
 
-[add image]
+![Blatt quote](Images/BlattAustenQuote.jpg)
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved?
 
@@ -153,6 +156,6 @@ See also:
 http://sappingattention.blogspot.com/2011/11/compare-and-contrast.html
 http://sappingattention.blogspot.com/2011/10/dunning-statistics-on-authors.html
 
-Stephen Ramsay
-
 Sarah Allison
+
+Add Austen computation book

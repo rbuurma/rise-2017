@@ -73,27 +73,33 @@ Are either of these corpora a perfect representation of the "real" archive of la
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
+Before we run the program, let's let's take a quick look at it. If you haven't already installed [the Atom code editor](https://atom.io/), do so now. Then open textinfo.py with Atom and take at least a brief look. We will read it more carefully together in class with Professor Wicentowski; this step is just to give you the sense of how to open the file and what it looks like.
+
+Now let's prepare to actually run the program.
+
 1. Download the [Rise17-Assignment8](https://github.com/rbuurma/rise-17-assignment8)repository into your own computer. Save it somewhere that makes sense to you.
 
 2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
 
-3. In the "bin" folder you will see several versions of the code written by various students from CS21. Each version of the code will do the same thing. To run the code, tell the computer that you will be using python 3, and then tell it which code file you want to use. For example, if you want to run the version of the programm called sample.py, enter:
+3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, textinfo_jw.py, and Rise's own Hannah Kloetzer textinfo_hk.py.s
 
-> python3 sample.py
+Each version of the code will do more or less the same thing. There are, however, some slight differences. Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.
+
+At long last, let's run the code.  To do that, you have to tell the computer that you will be using python 3, and then tell it which code file you want to use. Start by running textinfo.py. To do that, type:
+
+> python3 textinfo.py
 
 And follow the assignment's prompts to compare two texts or corpora.
 
 You will see a few outputs. First, there will be a list of most frequent words in each corpus with a number alongside telling you how many times that word occurs. These can be potentially interesting, but will not be our primary focus. Next comes the two list of "most distinctive" word in each corpus; each word is accompanied by a number that tells you how many times the word word appears in Corpus A than in Corpus B.
 
-You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC.)
-
-We will walk through the program with Professor Wicentowski in class next week so that you have a basic idea of how it implements the “most distinctive word” calculation.
+You will then also be able to select any word from that list and ask the program to display all instances of it in the context of the surrounding words from the text, which will give you a sense of the word's uses. (This is called Keyword in Context, or KWiC, as discussed in class.)
 
 ### Questions and Interpretation
 
 1. Once you have the program running, try these comparisons first: The AUSTEN corpus to BRUNTON, CHAWTON, and CANON corpora.
 
-You will see at least one fairly striking result in this comparison. Think back to the
+You will see at least one fairly striking result in this comparison. Can you describe it to yourself? Think back to the Gallagher "Rise of Fictionality" article; how does this result speak to Gallagher's argument? Think also about Watt on formal realism and Barthes on the reality effect; how might this result help us interpret Austen vs these corpora in light of Watt or Barthes?
 
 2. Next, map out come other comparisons - between Austen's novels and other groups of novels, and between individual Austen novels and other individual novels - that you would like to make in order to answer some of the questions below.
 

@@ -73,19 +73,23 @@ Are either of these corpora a perfect representation of the "real" archive of la
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
-Before we run the program, let's let's take a quick look at it. If you haven't already installed [the Atom code editor](https://atom.io/), do so now. Then open textinfo.py with Atom and take at least a brief look. We will read it more carefully together in class with Professor Wicentowski; this step is just to give you the sense of how to open the file and what it looks like.
-
-Now let's prepare to actually run the program.
+Before we run the program, let's let's take a quick look at it.
 
 1. Download the [Rise17-Assignment8](https://github.com/rbuurma/rise-17-assignment8)repository into your own computer. Save it somewhere that makes sense to you.
 
-2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
+2. If you haven't already installed [the Atom code editor](https://atom.io/), do so now.
 
-3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py.
+3. Then open textinfo.py with Atom and take at least a brief look. We will read it more carefully together in class with Professor Wicentowski; this step is just to give you the sense of how to open the file and what it looks like.
+
+Now let's prepare to actually run the program.
+
+4. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
+
+5. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise 2017's own Hannah Kloetzer.
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. *Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.*
 
-At long last, let's run the code.  To do that, you have to tell the computer that you will be using python 3, and then tell it which code file you want to use. Start by running textinfo.py. To do that, type:
+6. At long last, let's run the code.  To do that, you have to tell the computer that you will be using python 3, and then tell it which code file you want to use. Start by running textinfo.py. To do that, type:
 
 > python3 textinfo.py
 

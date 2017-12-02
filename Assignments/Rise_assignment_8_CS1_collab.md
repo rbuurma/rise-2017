@@ -81,7 +81,7 @@ Now let's prepare to actually run the program.
 
 2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
 
-3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, textinfo_jw.py, and Rise's own Hannah Kloetzer textinfo_hk.py.s
+3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise's own Hannah Kloetzer textinfo_hk.py.s
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.
 
@@ -135,14 +135,6 @@ Based on only what you see here, what is potentially wrong with Blatt’s exampl
 
 ### Extra credit for anyone (forthcoming)
 
-Here are two studies that use “most distinctive” words
-The first, “   “ by Matt Jockers and     ,  parses a corpus of about 3,000 nineteenth-century novels into pronoun-verb pairs. Using pronoun gender as the variable, Jockers and X try to discover whether there are patterns to the relation between pronoun gender and verb. Another study, inspired by
-
-For this extra credit assignment you have two options. The first is briefer and more purely critical
-
-The second ask you to turn to
-
--add a “reinterpret” assignment for https://juliasilge.com/blog/gender-pronouns/ - need to think about narrated vs reported speech, FID, non-FID, and first person (ie, Jane Eyre). Think about how KWiC might help check some of this. Think about what other data you might want to better get at this question about gender. Think about the role of gender in text analysis. Read also the Jockers-
 
 
 ### Citations and related work

@@ -73,6 +73,9 @@ Are either of these corpora a perfect representation of the "real" archive of la
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a different tool for viewing and interacting with the files and programs on your computer. You have already completed a tutorial teaching you the basics of how to navigate your file structure and run programs from the command line.
 
+To run this program, you will need Python3. Therefore, you should either come to one of our labs to use computers with Python 3 pre-installed, or you should install Python 3 on your computer. To do this, follow these instructions for [Mac](http://docs.python-guide.org/en/latest/starting/install3/osx/) or [PC](https://docs.python.org/3/using/windows.html).  
+Warning: depending on what you use your computer for, installing Python 3 could cause some of the existing programs you use to break; if you don't feel confident about your ability to figure this out, either talk to Professor Buurma in class or - best option - consider coming to lab.
+
 Before we run the program, let's let's take a quick look at it.
 
 1. Download the [Rise17-Assignment8](https://github.com/rbuurma/rise-17-assignment8)repository into your own computer. Save it somewhere that makes sense to you.

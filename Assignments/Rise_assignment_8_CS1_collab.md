@@ -81,7 +81,7 @@ Now let's prepare to actually run the program.
 
 2. Open your Terminal or PowerShell and change directory (cd) into the "bin" folder within the assignment folder.
 
-3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py, and Rise's own Hannah Kloetzer textinfo_hk.py.s
+3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py.
 
 Each version of the code will do more or less the same thing. There are, however, some slight differences. Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.
 

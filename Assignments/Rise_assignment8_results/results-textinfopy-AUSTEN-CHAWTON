@@ -1,0 +1,158 @@
+Here are the files in the text folder:
+[ 1] ALL.txt
+[ 2] AUSTEN.txt
+[ 3] austen_emma.txt
+[ 4] austen_lady_susan.txt
+[ 5] austen_mansfield_park.txt
+[ 6] austen_northanger_abbey.txt
+[ 7] austen_persuasion.txt
+[ 8] austen_pride_and_prejudice.txt
+[ 9] austen_sense_and_sensibility.txt
+[10] BRUNTON.txt
+[11] brunton_discipline.txt
+[12] brunton_self-control.txt
+[13] BURNEY.txt
+[14] burney_cecilia_1.txt
+[15] burney_cecilia_2.txt
+[16] burney_cecilia_3.txt
+[17] burney_evelina.txt
+[18] burney_the_wanderer_1.txt
+[19] burney_the_wanderer_2.txt
+[20] burney_the_wanderer_3.txt
+[21] burney_the_wanderer_4.txt
+[22] burney_the_wanderer_5.txt
+[23] CANON.txt
+[24] CHAWTON.txt
+[25] DEFOE.txt
+[26] FIELDING.txt
+[27] PAMELAPARODIES.txt
+[28] RICHARDSON.txt
+[29] SCOTT.txt
+[30] scott_bride_of_lammermoor.txt
+[31] scott_ivanhoe.txt
+[32] scott_rob_roy.txt
+[33] scott_the_lady_of_the_lake.txt
+[34] scott_waverly.txt
+[35] SHELLEY.txt
+[36] shelley_frankenstein.txt
+[37] shelley_mathilda.txt
+[38] shelley_the_last_man.txt
+[39] SINGERMENDENHALL.txt
+
+To get started, you may want to try austen_emma.txt
+and austen_northanger_abbey.txt
+
+Enter choice for the 1st corpus: 1
+Enter choice for the 2nd corpus: 23
+Is the 2nd corpus a subset of the 1st? n
+The 10 most frequent words in ../texts/AUSTEN.txt are:
+
+Frequency | Word
+----------|-------------------------
+    25211 | the
+    24556 | to
+    22275 | and
+    21792 | of
+    13273 | a
+    13063 | her
+    11337 | was
+    11171 | in
+     8933 | it
+     8663 | not
+
+The 10 most frequent words in ../texts/CHAWTON.txt are:
+
+Frequency | Word
+----------|-------------------------
+   254643 | the
+   185306 | to
+   170953 | of
+   154418 | and
+    97319 | a
+    91194 | her
+    78795 | in
+    68478 | was
+    62715 | that
+    59778 | his
+
+The 10 most prevalent words in ../texts/AUSTEN.txt
+relative to ../texts/CHAWTON.txt
+
+Score  | Word
+-------|-------------------------
+ 144.8 | anyone
+ 133.9 | anywhere
+ 122.2 | everybody
+  94.1 | talker
+  72.4 | dockyard
+  65.2 | plaister
+  65.2 | despatch
+  57.9 | pheasants
+  57.9 | anybody
+  53.5 | everything
+
+The 10 most prevalent words in ../texts/CHAWTON.txt
+relative to ../texts/AUSTEN.txt
+
+Score  | Word
+-------|-------------------------
+ 122.9 | countess
+  94.8 | earl
+  83.8 | lordship
+  68.6 | thou
+  42.4 | victim
+  42.1 | fled
+  39.5 | palace
+  39.2 | sword
+  38.7 | prisoner
+  36.5 | n
+
+Choose a word to see it in context: anyone
+
+Here are the occurences of anyone in ../texts/AUSTEN.txt:
+------------------------------------
+the ungenerous representations of anyone to the disadvantage of
+                    as can be to anyone should make a point
+           the general report of anyone ought to be credited
+         be quicker sighted than anyone else declares that he
+             its taking place to anyone because thought that whilst
+          under an obligation to anyone who is the means
+            of no consequence to anyone of very little to
+         which no longer concern anyone living and their language
+        aloud whether there were anyone at leisure to answer
+            been better off with anyone else will allow all
+               should be said of anyone be always firm must
+        only when unsolicited by anyone else cannot think this
+            sorry for sorry that anyone you love should be
+              was so deceived in anyone s character in my
+                  at the idea of anyone s approaching so cautiously
+                  an evil eye on anyone intending to inhabit that
+           be hasty in censuring anyone but always speak what
+        net purses scarcely know anyone who cannot do all
+        advantage to yourself or anyone else cried this is
+          and talked scarcely to anyone else at work in
+             is not possible for anyone it has been the
+              on good terms with anyone with whom it had
+           to have attention for anyone in particular for the
+         favourably spoken of by anyone cannot pretend to be
+ incapable of wilfully deceiving anyone and all that can
+       anything about the entail anyone could have the conscience
+                 done no harm to anyone but myself dear exclaimed
+         have occasioned pain to anyone has been most unconsciously
+               there is to tempt anyone to our humble abode
+      parsonage should not think anyone abiding in it an
+             will not signify to anyone here what he really
+                  in my life saw anyone so much altered as
+        cannot be concealed from anyone younger sister has left
+               felt it never saw anyone so shocked could not
+    concealed himself there were anyone that one could apply
+          so little advantage to anyone should be forwarded at
+    humour for conversation with anyone but himself and to
+                 to hear it from anyone but myself is gone
+          attention to bestow on anyone else but she found
+                  with you my to anyone less worthy complete the
+------------------------------------
+Here are the occurences of anyone in ../texts/CHAWTON.txt:
+------------------------------------
+     being sufficient to satisfy anyone however bitterly affronted lady
+           the modern would tire anyone but myself however there

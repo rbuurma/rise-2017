@@ -83,7 +83,7 @@ Now let's prepare to actually run the program.
 
 3. In the "bin" folder you will see several versions of the code, one version written by Professor Wicentowski, and other versions written by various students from CS21 -  Danielle Rossetti textinfo_dr.py,  Alex Galarraga textinfo_ag.py, Jason Wong textinfo_jw.py.
 
-Each version of the code will do more or less the same thing. There are, however, some slight differences. Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.
+Each version of the code will do more or less the same thing. There are, however, some slight differences. *Therefore I highly recommend running textinfo.py as well as one or more of the other versions; note the different outputs and consider what has caused the differences.*
 
 At long last, let's run the code.  To do that, you have to tell the computer that you will be using python 3, and then tell it which code file you want to use. Start by running textinfo.py. To do that, type:
 
@@ -129,7 +129,7 @@ The number of words that must appear in both corpora for the word to appear at a
 
 In his book Nabokov’s Favorite Word is Mauve, data journalist Ben Blatt notes that Jane Austen’s “use of words like "very" is off the charts,” and gives an example:
 
-![Blatt quote](Images/BlattAustenQuote.jpg)
+![Blatt quote](/Images/BlattAustenQuote.jpg)
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved?
 

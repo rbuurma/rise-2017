@@ -123,6 +123,8 @@ After making a series of comparisons write 4-5 paragraphs describing your result
 
 3. Some consideration of what it means to make comparisons between texts and corpora in this way along side the way any one of our critics has made - or implied - comparisons between texts or corpora/groups of texts.
 
+Post it to our Known site and tag with #assignment8.
+
 
 ### Extra credit for non-CS people
 

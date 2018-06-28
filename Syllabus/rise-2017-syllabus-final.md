@@ -83,7 +83,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### September 27
 + *Shamela*, continued
-+ Sxercise 3 due; [exercise4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) assigned
++ Exercise 3 due; [exercise4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) assigned
 + From Tenen, *Plain Text: The Poetics of Computation* (in class)
 
 ##### September 29
@@ -243,7 +243,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 + descriptive bibliography lightening round (present your project in 30 seconds)
 
 ##### December 6
-+ Exercise 8 due
++ Professor Wicentowski visits to talk about Exercise 8
 + Homi Bhabha, “The World and the Home” handout
 + Social media 9: platform
 
@@ -255,6 +255,7 @@ Note: you may wish to read ahead and begin *Northanger Abbey* as well as *Evelin
 ##### December 11
 + *A House for Mr. Biswas*, 292-564
 + Brief descriptive bibliography project presentations
++ Exercise 8 write-up due
 + Conclusions
 
 *Final papers/projects due by midnight, Dec 23*

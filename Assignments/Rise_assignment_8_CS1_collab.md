@@ -3,6 +3,8 @@
 ### ENGL35 Assignment 8, pairs with CS21 Lab [ADD LAB NUMBER]
 #### by Rachel Sagner Buurma and Rich Wicentowski
 
+*revision in progress*
+
 Summary: *This assignment will ask: how specifically are Jane Austen's novels (written and published between approximately 1790 and 1818) different from those of her contemporaries? How different are they from the other eighteenth-century and early-nineteenth-century novels we might read in a class like The Rise of the Novel?*
 
 ## Some Background
@@ -139,13 +141,6 @@ After making a series of comparisons, write 4-5 paragraphs describing your resul
 
 4. Post it to our site and tag with #assignment8. Post-assignment pdate: see the assignment responses [here](ADD LINK).
 
-### Extra credit
-
-Use some earlier novels
-
-Assemble your own corpus
-
-
 ### Extra credit 1 (for people who have not taken CS21)
 
 Open the script in Atom or a similar code-editing tool and modify the script to try one or both of the following:
@@ -162,11 +157,11 @@ In his book Nabokov’s *Favorite Word is Mauve*, data journalist Ben Blatt note
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved? Explain the basic literary critical concept(s) Blatt fails to take into account here.
 
-### Extra credit 3 (for anyone and everyone)
+### Extra credit 3 (for anyone and everyone) (in progress)
 
 Underwood et al paper
 
-### Citations and related work
+### Citations and related work (revision in progress)
 
 Eric Simpson, Jane Austen and contemporary prose style
 https://pagesandlights.wordpress.com/2013/01/23/jane-austen-and-contemporary-prose-style/
